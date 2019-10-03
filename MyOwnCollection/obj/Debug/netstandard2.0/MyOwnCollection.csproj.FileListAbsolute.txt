@@ -1,0 +1,9 @@
+C:\Ostruks\MyOwnCollection\MyOwnCollection\bin\Debug\netstandard2.0\MyOwnCollection.deps.json
+C:\Ostruks\MyOwnCollection\MyOwnCollection\bin\Debug\netstandard2.0\MyOwnCollection.dll
+C:\Ostruks\MyOwnCollection\MyOwnCollection\bin\Debug\netstandard2.0\MyOwnCollection.pdb
+C:\Ostruks\MyOwnCollection\MyOwnCollection\obj\Debug\netstandard2.0\MyOwnCollection.csprojAssemblyReference.cache
+C:\Ostruks\MyOwnCollection\MyOwnCollection\obj\Debug\netstandard2.0\MyOwnCollection.csproj.CoreCompileInputs.cache
+C:\Ostruks\MyOwnCollection\MyOwnCollection\obj\Debug\netstandard2.0\MyOwnCollection.AssemblyInfoInputs.cache
+C:\Ostruks\MyOwnCollection\MyOwnCollection\obj\Debug\netstandard2.0\MyOwnCollection.AssemblyInfo.cs
+C:\Ostruks\MyOwnCollection\MyOwnCollection\obj\Debug\netstandard2.0\MyOwnCollection.dll
+C:\Ostruks\MyOwnCollection\MyOwnCollection\obj\Debug\netstandard2.0\MyOwnCollection.pdb

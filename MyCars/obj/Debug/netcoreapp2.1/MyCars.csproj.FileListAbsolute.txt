@@ -1,0 +1,14 @@
+C:\Ostruks\MyOwnCollection\MyCars\bin\Debug\netcoreapp2.1\MyCars.deps.json
+C:\Ostruks\MyOwnCollection\MyCars\bin\Debug\netcoreapp2.1\MyCars.runtimeconfig.json
+C:\Ostruks\MyOwnCollection\MyCars\bin\Debug\netcoreapp2.1\MyCars.runtimeconfig.dev.json
+C:\Ostruks\MyOwnCollection\MyCars\bin\Debug\netcoreapp2.1\MyCars.dll
+C:\Ostruks\MyOwnCollection\MyCars\bin\Debug\netcoreapp2.1\MyCars.pdb
+C:\Ostruks\MyOwnCollection\MyCars\bin\Debug\netcoreapp2.1\MyOwnCollection.dll
+C:\Ostruks\MyOwnCollection\MyCars\bin\Debug\netcoreapp2.1\MyOwnCollection.pdb
+C:\Ostruks\MyOwnCollection\MyCars\obj\Debug\netcoreapp2.1\MyCars.csprojAssemblyReference.cache
+C:\Ostruks\MyOwnCollection\MyCars\obj\Debug\netcoreapp2.1\MyCars.csproj.CoreCompileInputs.cache
+C:\Ostruks\MyOwnCollection\MyCars\obj\Debug\netcoreapp2.1\MyCars.AssemblyInfoInputs.cache
+C:\Ostruks\MyOwnCollection\MyCars\obj\Debug\netcoreapp2.1\MyCars.AssemblyInfo.cs
+C:\Ostruks\MyOwnCollection\MyCars\obj\Debug\netcoreapp2.1\MyCars.csproj.CopyComplete
+C:\Ostruks\MyOwnCollection\MyCars\obj\Debug\netcoreapp2.1\MyCars.dll
+C:\Ostruks\MyOwnCollection\MyCars\obj\Debug\netcoreapp2.1\MyCars.pdb
